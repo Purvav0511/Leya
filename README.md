@@ -2,7 +2,6 @@
 
 AI coding assistant which can directly be ported into the terminal and be used to query complex Git repositories
 
-https://pypi.org/project/leya/
 
 ## Overview
 
@@ -76,7 +75,7 @@ Create a new Pull Request.
 
 ## Credits
 
-Developed by: PranavN1234
+Developed by: Purvav0511
 
 ## Working 
 ### Store repositories
